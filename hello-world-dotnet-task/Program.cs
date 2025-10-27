@@ -1,13 +1,17 @@
 ﻿using System;
-using System.Net;
 
 namespace HelloWorldApp
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(GetGreeting());
+        }
+
+        public static string GetGreeting()
+        {
+            return "Hello World!";
         }
     }
 }

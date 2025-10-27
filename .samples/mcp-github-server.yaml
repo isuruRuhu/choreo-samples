@@ -1,0 +1,11 @@
+displayName: GitHub Server
+description: Repository management, file operations, and GitHub API integration
+componentType: mcp-service
+buildPack: npm
+thumbnailPath: /icons/github.svg
+repositoryUrl: https://github.com/github/github-mcp-server
+documentationPath: /blob/main/README.md
+imageUrl: choreoanonymouspullable.azurecr.io/mcp/mcp-server-github:1.0.0
+tags:
+  - npm
+deprecated: false

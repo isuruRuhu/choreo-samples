@@ -1,0 +1,11 @@
+displayName: AWS Knowledge Base Retrieval Server
+description: Retrieval from AWS Knowledge Base using Bedrock Agent Runtime.
+componentType: mcp-service
+buildPack: pypi
+thumbnailPath: /icons/aws.svg
+repositoryUrl: https://github.com/awslabs
+documentationPath: /mcp/tree/main/src/bedrock-kb-retrieval-mcp-server/README.md
+imageUrl: choreoanonymouspullable.azurecr.io/mcp/aws_bedrock_kb_retrieval_server:2.0.0
+tags:
+  - pypi
+deprecated: false

@@ -1,0 +1,11 @@
+displayName: Sentry Server
+description: Retrieving and analyzing issues from Sentry.io.
+componentType: mcp-service
+buildPack: npm
+thumbnailPath: /icons/sentry.svg
+repositoryUrl: https://github.com/getsentry/sentry-mcp
+documentationPath: /blob/main/sentry/README.md
+imageUrl: choreoanonymouspullable.azurecr.io/mcp/sentry-server:2.0.0
+tags:
+  - npm
+deprecated: false
